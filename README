@@ -1,0 +1,4 @@
+This is a simple automatic speech recognition system based on digits corpora (Polish language), created in Kaldi toolkit. Despite of the language difference, this is an effect of 'Kaldi for dummies' tutorial published in kaldi-help discussion group. No audio data - this is just an example (instead of wav files there are txt files with the list of used audio files). For the presentation needs, the system is configured only for two speakers (10 recordings each). Also paths in some files are just illustrative.
+
+Please refer to KALDI FOR DUMMIES TUTORIAL file or visit this place:
+https://groups.google.com/forum/#!msg/kaldi-help/tzyCwt7zgMQ/wvCLpVVpBgAJ
